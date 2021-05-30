@@ -1,0 +1,16 @@
+{
+  "name": "perpetual-presence-hit-muckl",
+  "productName": "perpetual-presence-hit-muckl",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "devant",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "13.0.0-beta.12"
+  }
+}
