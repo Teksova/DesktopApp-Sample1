@@ -1,5 +1,9 @@
-body { 
+body {
 background-color: #f2a6be;
 text-align: center;
 color: cornsilk;
-font-size: 20px;}
+font-size: 20px;
+}
+h1{
+  background-color: #f2a6be;
+}

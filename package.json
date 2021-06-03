@@ -1,11 +1,11 @@
 {
-  "name": "spotted-fly-glue-g2ndv",
-  "productName": "spotted-fly-glue-g2ndv",
+  "name": "bitesized-twig-let-046cs",
+  "productName": "bitesized-twig-let-046cs",
   "description": "My Electron application description",
   "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",
-  "author": "devant",
+  "author": "Christopher",
   "scripts": {
     "start": "electron ."
   },
