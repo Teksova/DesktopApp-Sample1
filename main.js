@@ -17,6 +17,15 @@ function createWindow () {
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()
+  
+  //creating the sign on page
+  const SignonWindow = new BrowserWindow({
+    width: 200, height: 400,  //webPreferences: {
+//      preload: path.join("Sign On", 'preload.js')
+  //  }
+  })
+  SignonWindow.loadFile('signonpage.html')
+
 }
 
 // This method will be called when Electron has finished
