@@ -1,11 +1,11 @@
 {
-  "name": "bitesized-twig-let-046cs",
-  "productName": "bitesized-twig-let-046cs",
+  "name": "DesktopApp1",
+  "productName": "DesktopApp1",
   "description": "My Electron application description",
   "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",
-  "author": "Christopher",
+  "author": "devant",
   "scripts": {
     "start": "electron ."
   },

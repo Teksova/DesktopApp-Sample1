@@ -10,12 +10,16 @@
     
   </head>
   <body>
-    <h1>Rejeno</h1>
+    <h2>Rejeno</h2>
     The amount of times you have been rejected so far:
 
 
     <!-- You can also require other files to run in this process -->
+   <script type="text/javascript"> var clicks =0; function onClick() { clicks +=1;   document.getElementById("rejnumber").innerHTML = clicks;} </script>
+    <h1 style="font-size: 90px;"> <a id="rejnumber"> 0 </a> </h1>
+    <button id="rejectedbtn"  onclick= "onClick()" > I've Been Rejected! </button>
     <script src="./renderer.js"></script>
+    
   </body>
 </html>
 
